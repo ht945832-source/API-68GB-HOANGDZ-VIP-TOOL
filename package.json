@@ -1,0 +1,23 @@
+{
+  "name": "68gb-ai-prediction",
+  "version": "5.0.0",
+  "description": "Hệ thống dự đoán AI cho 68GB - Tác giả @tranhoang2286",
+  "main": "api 68gb.js",
+  "scripts": {
+    "start": "node \"api 68gb.js\""
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "ai",
+    "prediction",
+    "68gb",
+    "websocket"
+  ],
+  "author": "@tranhoang2286",
+  "license": "ISC"
+}
