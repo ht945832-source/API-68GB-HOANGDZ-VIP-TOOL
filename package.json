@@ -1,0 +1,18 @@
+{
+  "name": "789-prediction-api",
+  "version": "4.0.0",
+  "description": "🎯 789 Prediction API - Zero Random - 100% Pattern Based",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "@tranhoang2286",
+  "license": "MIT"
+}
