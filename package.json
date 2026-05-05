@@ -1,0 +1,23 @@
+{
+  "name": "68gb-ai-engine",
+  "version": "5.0.0",
+  "description": "Super AI Prediction Engine v5.0 với khả năng tự học và sửa sai",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "ai",
+    "render",
+    "68gb"
+  ],
+  "author": "@tranhoang2286",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
