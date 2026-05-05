@@ -1,0 +1,19 @@
+{
+  "name": "68gb-super-ai-bot",
+  "version": "5.0.0",
+  "description": "AI Prediction Engine & WebSocket Bot for 68GB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "npx puppeteer browsers install chrome"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "puppeteer": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
